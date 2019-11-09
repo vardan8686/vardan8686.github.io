@@ -6,7 +6,7 @@ body{
 }
 /*section 1*/
 .header {
-	background: url("img/red.jpg");
+	background: url("src/img/red.jpg");
 	background-repeat: no-repeat;
     background-size: cover;
 	height: 750px;
@@ -163,7 +163,7 @@ h4 {
 	margin: 0 auto;
 }
 .one {
-	background: url("img/khalil.jpg") no-repeat;
+	background: url("src/img/khalil.jpg") no-repeat;
 	background-size: cover;
 	background-origin: 
 	height: 200px;
@@ -171,19 +171,19 @@ h4 {
 	
 }
 .two {
-	background: url("img/rubel.jpg") no-repeat;
+	background: url("src/img/rubel.jpg") no-repeat;
 	background-size: cover;
 	height: 200px;
 	width: 200px;
 }
 .three {
-	background: url("img/shamim.jpg") no-repeat;
+	background: url("src/img/shamim.jpg") no-repeat;
 	background-size: cover;
 	height: 200px;
 	width: 200px;
 }
 .four {
-	background: url("img/john.jpg") no-repeat;
+	background: url("src/img/john.jpg") no-repeat;
 	background-size: cover;
 	height: 200px;
 	width: 200px;
@@ -268,7 +268,7 @@ h4 {
     background-size: cover;
 }*/
 .fill {
-	background: url("img/hairdresser.jpg") no-repeat;
+	background: url("src/img/hairdresser.jpg") no-repeat;
 	background-size: cover;
 	background-position: top;
 	background-blend-mode: multiply;
@@ -316,7 +316,7 @@ h4 {
 	color:  #C62C20;
 }
 .footer{
-	background: url("img/clock.jpg") no-repeat;
+	background: url("src/img/clock.jpg") no-repeat;
 	background-size: cover;
 	height: 400px;
 	background-blend-mode: multiply;
