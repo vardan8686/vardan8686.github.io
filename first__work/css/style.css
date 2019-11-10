@@ -404,11 +404,9 @@ strong {
 	}
 }
 @media  only screen and (max-width: 767px)  {
-	* {
-                font-size: 64px;
-}
-        P {
-                font-size: 128px;
+	
+        p {
+                font-size: 12rem;
 }
 section p {
 		font-size: 4rem;
