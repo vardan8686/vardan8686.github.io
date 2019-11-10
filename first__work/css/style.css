@@ -404,7 +404,10 @@ strong {
 	}
 }
 @media  only screen and (max-device-width: 767px)  {
-	section p {
+	* {
+                font-size: 32px;
+}
+section p {
 		font-size: 4rem;
 	}
 	.serv {
