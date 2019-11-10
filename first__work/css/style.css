@@ -407,6 +407,9 @@ strong {
 	* {
                 font-size: 64px;
 }
+        P {
+                font-size: 128px;
+}
 section p {
 		font-size: 4rem;
 	}
