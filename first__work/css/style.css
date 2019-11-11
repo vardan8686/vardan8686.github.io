@@ -6,7 +6,7 @@ body{
 }
 /*section 1*/
 .header {
-	background: url("./img/red.jpg");
+	background: url("first__work/img/red.jpg");
 	background-repeat: no-repeat;
     background-size: cover;
 	height: 750px;
