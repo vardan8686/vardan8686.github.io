@@ -139,7 +139,7 @@ h1 {
 
 /* SECTION TWO */
 .two {
-	background: url('/img/desktop.jpg');
+	background: url('img/desktop.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	filter: grayscale(0.7);
